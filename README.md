@@ -1,6 +1,6 @@
 # EXTRA PYTHON
 
-This repository contains lots of cool coding of 5 different topics. These are the following:
+This repository contains lots of cool coding (with lots of spanish terms and descriptions) of 5 different topics. These are the following:
 
 1.- Python Basics.
 
